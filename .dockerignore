@@ -1,0 +1,14 @@
+.git
+.gitignore
+**/.env
+**/.env.*
+!**/.env.example
+**/node_modules
+**/dist
+**/venv
+**/__pycache__
+*.pyc
+*.sql
+*.dump
+docs
+.DS_Store
